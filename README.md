@@ -7,7 +7,7 @@
     <img src="https://api.iconify.design/logos:google-gmail.svg" width="32" height="32" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/karanparmar/" target="_blank">
+  <a href="https://www.linkedin.com/in/krnparmar/" target="_blank">
     <img src="https://api.iconify.design/devicon:linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
