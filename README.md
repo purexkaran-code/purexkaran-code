@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Karan Parmar! 👋</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack Enthusiast | Founder of pieCode</h3>
+<h3 align="center">Full-Stack Web Developer | MERN Stack Enthusiast | Co-Founder of pieCode</h3>
 
 <p align="center">
   I'm a passionate developer and BCA student in Delhi, constantly building impactful projects and actively participating in hackathons. I love architecting responsive web applications and exploring AI-powered tools to solve real-world problems.
@@ -11,8 +11,8 @@
 * 🎓 Pursuing my Bachelor of Computer Applications (BCA) at GGSIPU.
 * 💻 Currently focusing on the **MERN stack** (MongoDB, Express.js, React, Node.js) to build scalable web applications.
 * 🏆 Hackathon enthusiast: Built projects like **Jal-Drishti** (AI early flood warning) and **Access More** (AI study kit generator).
-* 🤝 Founder & Lead at **pieCode**, a student tech community dedicated to sharing resources, competition updates, and learning opportunities.
-* 📫 How to reach me: **[Insert Your Email Address]** or **[Insert Your LinkedIn URL]**
+* 🤝 Co-Founder & Lead at **pieCode**, a student tech community dedicated to sharing resources, competition updates, and learning opportunities.
+* 📫 How to reach me: **purexkaran@gmail.com** or **https//www.linkedin.com/in/karanparmar/**
 
 ### 🛠️ Tech Stack & Tools
 
