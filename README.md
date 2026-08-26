@@ -49,5 +49,5 @@
 ### 📊 GitHub Stats
 <p align="center">
   <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Karan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=purexkaran-code&show_icons=true&theme=radical" alt="Karan's GitHub Stats" />
 </p>
